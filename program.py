@@ -9,7 +9,7 @@ window.title("Obdelava HMI screenshotov")
 
 current_directory = os.getcwd()
 poppler_directory = "\\poppler-23.08.0\\Library\\bin"
-logo_directory = "\\pic\\pio_logo.jpg"
+logo_directory = "\\pio_logo.jpg"
 poppler_directory =  current_directory + poppler_directory
 logo_directory = current_directory + logo_directory
 
